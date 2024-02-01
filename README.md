@@ -2,6 +2,8 @@
 
 The **Inverse Runner Clone** is a 2D platformer game featuring two players with inverse mechanics. Players control characters that run, jump, and fire bullets in an inverted world. The game includes animated coins, showcasing fundamental game mechanics such as player movement, jumping, shooting, coin collection, and basic UI for the main menu and score update.
 
+![Animated Gameplay](animated_gameplay.gif)
+
 ## Inverse Mechanics:
 
 - **Jumping:** Players can make their characters jump by pressing the Spacebar.
